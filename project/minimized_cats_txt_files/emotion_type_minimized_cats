@@ -1,0 +1,49 @@
+Hello 
+Here are 20 emotion categories that can be derived from the list:
+
+1. Anger
+2. Anticipation
+3. Joy
+4. Gratitude
+5. Neutral
+6. Love
+7. Stress
+8. Sadness
+9. Surprise
+10. Disgust
+11. Fear
+12. Appreciation 
+13. Confusion
+14. Admiration
+15. Unknown
+16. Mixed
+17. Stress
+18. Fear
+19. Love
+20. Anticipation, Surprise
+
+['Anger',
+'Anticipation',
+'Joy',
+'Gratitude',
+'Neutral',
+'Love',
+'Stress',
+'Sadness',
+'Surprise',
+'Disgust',
+'Fear',
+'Appreciation',
+'Confusion',
+'Admiration',
+'Unknown',
+'Mixed',
+'Stress',
+'Fear',
+'Love',
+'Anticipation'
+]
+
+
+
+Note that these are the distinct emotion labels identified from the given data. Some of these labels might represent a combination of emotions (such as "Anticipation, Surprise") and may need to be parsed further. Also, 'nan' likely represents missing data or absence of a label.

@@ -1,0 +1,25 @@
+Hello 
+Classifying sentiments into 20 categories can become extremely detailed and rather subjective. This level of detail can include not only the general sentiment (such as positive, negative, or neutral), but also the degrees of each sentiment and the specific type of emotion being expressed. Here's a possible breakdown:
+
+1. Extremely Positive - "I absolutely love it!"
+2. Moderately Positive - "I like it."
+3. Slightly Positive - "It's not bad."
+4. Mixed Positive/Negative - "I like some aspects, but dislike others."
+5. Neutral - "It's okay."
+6. Slightly Negative - "It's not great."
+7. Moderately Negative - "I don't like it."
+8. Extremely Negative - "I absolutely hate it!"
+9. Irritated - "It's really annoying!"
+10. Amused - "It's really funny!"
+11. Happy - "I'm so happy about it!"
+12. Sad - "It's really sad."
+13. Angry - "It makes me angry!"
+14. Confused - "I'm not sure how to feel about it."
+15. Surprised - "I didn't expect that!"
+16. Excited - "I can't wait!"
+17. Eager - "I'm looking forward to it!"
+18. Fearful - "It scares me!"
+19. Disgusted - "It's disgusting!"
+20. Unsure - "I don't really know."
+
+Please note that, depending on the nature of your tweets, not all of these categories might apply and this classification requires an advanced sentiment analysis process which goes beyond the normal positive, negative, mixed and neutral classifiers.

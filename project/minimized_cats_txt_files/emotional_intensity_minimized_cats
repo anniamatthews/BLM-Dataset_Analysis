@@ -1,0 +1,23 @@
+Hello 
+1. High Intensity
+2. Moderate Intensity
+3. Calm Intensity
+4. High Positivity
+5. Moderate Positivity
+6. Calm Positivity
+7. High Negativity
+8. Moderate Negativity
+9. Calm Negativity
+10. High Neutral
+11. Moderate Neutral
+12. Calm Neutral
+13. High Emotional 
+14. Moderate Emotional
+15. Calm Emotional
+16. High Confusion
+17. Moderate Confusion
+18. Calm Confusion
+19. Unknown Intensity
+20. Unknown Emotion
+
+Please note this is an example of categories and it depends on the type of tweets and emotions that are expressed in your tweets. You may have to fine-tune them to better suit your specific need.

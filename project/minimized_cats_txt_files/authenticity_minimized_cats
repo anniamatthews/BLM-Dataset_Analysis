@@ -1,0 +1,30 @@
+Hello 
+Upon examining the provided data, it appears that there are only four categories: 'Unverified Claims', 'Verified Facts', 'Unknown', and 'Satire or Parody'. 
+
+If you require 20 categories, you may need more diverse data or you could consider further dissecting these existing categories based on additional characteristics, such as topic, tone, original source, intent, etc. Therefore, you could potentially fragment these categories as follows (assuming all are related to topics commonly found on social media which may not reflect your specific dataset):
+
+
+['unverified claims','verified claims', 'unknown', 'satire or parody']
+
+1. Unverified Claims - Politics
+2. Unverified Claims - Sports
+3. Unverified Claims - Health
+4. Unverified Claims - Entertainment
+5. Unverified Claims - News
+6. Verified Facts - Politics
+7. Verified Facts - Sports
+8. Verified Facts - Health
+9. Verified Facts - Entertainment
+10. Verified Facts - News
+11. Unknown - Politics
+12. Unknown - Sports
+13. Unknown - Health
+14. Unknown - Entertainment
+15. Unknown - News
+16. Satire or Parody - Politics
+17. Satire or Parody - Sports
+18. Satire or Parody - Health
+19. Satire or Parody - Entertainment
+20. Satire or Parody - News
+
+Be reminded that this is just a suggestion, it is essential to analyze your specific data and make categories that best suit its nature.

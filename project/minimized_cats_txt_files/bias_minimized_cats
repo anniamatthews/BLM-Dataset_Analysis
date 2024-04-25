@@ -1,0 +1,35 @@
+Hello 
+Sure, here's a set of 20 categories using your data:
+
+1. Moderate
+2. Moderate - Positive
+3. Moderate - Negative
+4. Moderate - Neutral
+5. Neutral
+6. Neutral - Positive
+7. Neutral - Negative
+8. Strong
+9. Strong - Positive
+10. Strong - Negative
+11. Strong - Neutral
+12. Unknown
+13. Positive
+14. Negative
+15. Neutral
+16. Moderate (promoting a specific book)
+17. Strong (promoting a specific book)
+18. Positive (promoting a specific book)
+19. Negative (promoting a specific book)
+20. Not Categorized
+
+[
+    'Moderate - Positive','Moderate - Negative','Moderate - Neutral',
+    'Neutral - Positive','Neutral - Negative',
+    'Strong - Positive','Strong - Negative', 'Strong - Neutral',
+    'Unknown', 'Not Categorized'
+]
+
+
+Since it's unclear from the array what exact sentiments or subcategories each "Moderate", "Strong", "Neutral" refer to, this list uses common sentiment analysis subcategories like positive and negative, and adapts from the one specific subcategory you had (promoting a specific book). 
+
+The final category, "Not Categorized", can be used for the 'nan' or any other values in your data that don't fit with the other 19 categories.

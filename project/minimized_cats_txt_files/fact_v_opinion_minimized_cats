@@ -1,0 +1,30 @@
+Hello 
+The data you've provided consists of five unique classifications: 'Opinionated', 'Mixed', 'Factual', 'Unknown', 'Unclear'. If you want to classify your tweets into 20 different categories, you would have to establish additional criteria. Here is an example of how you might break it down:
+
+1. Strongly Opinionated (tweets that convey confident personal views)
+2. Moderately Opinionated
+3. Mildly Opinionated
+4. Neutral Opinionated (tweets carrying opinions but without taking a clear position)
+5. Uncertain Opinionated
+
+6. Strongly Mixed (tweets that combine different opinions or facts with equal intensity)
+7. Moderately Mixed
+8. Mildly Mixed
+9. Neutral Mixed 
+
+10. Strongly Factual (tweets that state objective facts without any personal bias)
+11. Moderately Factual
+12. Mildly Factual
+13. Neutral Factual (tweets which share facts but don't offer conclusions) 
+
+14. Unknown (tweets that don't express a clear meaning or sentiment, or are hard to interpret)
+
+15. Strongly Unclear (tweets that are vague or extremely difficult to interpret)
+16. Moderately Unclear
+17. Mildly Unclear
+
+18. Personal Experience (tweets sharing personal stories or individual experiences)
+19. News Report (tweets sharing information from news or media sources)
+20. Humor/Satire (tweets using humor, irony, or satire)
+
+Remember, all these categories would involve manual setting of rules or training of a machine learning model to classify the tweets accurately. This is just a suggestion, and these categories can be tailored to better suit your needs.

@@ -1,0 +1,27 @@
+Hello 
+Considering the original list contains only four categories: 'Medium', 'Low', 'High' and 'Unknown', breaking them down into 20 categories does not directly make sense without providing some extra metric or dimension along which these messages can be classified. 
+
+However, if you're asking for examples of general categories you could use to sort your tweets, this could be achieved with numerous factors. Here are 20 possible categories you could use, based on various characteristics a tweet might have:
+
+1. Positive Sentiment
+2. Negative Sentiment
+3. Neutral Sentiment
+4. Highly Popular (many retweets/favorites)
+5. Unpopular (few retweets/favorites)
+6. Mentions of Brands/Products
+7. Contains Images/Videos
+8. Link Sharing
+9. User Engagement (Responses to or mentions of other users)
+10. Hashtags
+11. Location Based Tweets
+12. Relevant to Current Events/News
+13. Spam or Unwanted Content
+14. Inspirational Content or Quotes
+15. Personal Updates or Comments
+16. Asking a Question or Seeking Advice
+17. Humor or Memes
+18. Retweets
+19. Endorsement or Promotion of Products/Services
+20. Unknown (Can't be classified into the above categories)
+
+This categorization is rather general though, and may not fit every possible tweet. An ideal categorization will largely dependent on the nature/type of tweets that are being produced, necessitating a more custom approach if a perfect fit is required.

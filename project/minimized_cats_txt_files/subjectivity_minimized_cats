@@ -1,0 +1,31 @@
+Hello 
+Given the types of data and their repetition, it seems like you only have four different categories, "Highly Subjective", "Somewhat Subjective", "Objective", and "Unknown". As such, splitting the data into 20 different types might be too much and could lead to categories without any relevant data. 
+
+However, if you wish to further break the data, you can add more categorization factors in relevance with the context like:
+
+1. Highly Subjective - Political 
+2. Highly Subjective - Emotional
+3. Highly Subjective - Personal
+4. Highly Subjective - Social issue
+5. Somewhat Subjective - Political
+6. Somewhat Subjective - Emotional
+7. Somewhat Subjective - Personal
+8. Somewhat Subjective - Social issue
+9. Objective - Political
+10. Objective - Educational
+11. Objective - News breaking 
+12. Objective - Technological
+13. Unknown - Time-based
+14. Unknown - Quality-based
+15. Highly Subjective - Complain/Aggression
+16. Highly Subjective - Praise/Appreciation
+17. Somewhat Subjective - Question-related
+18. Objective - Instructions/Information
+19. Somewhat Subjective - Satire/Humor
+20. Objective - Factual/Statistical 
+
+Please note that these categories are arbitrary and driven by knowing what data the tweets might contain. Saying that, the categorization heavily depends on the subject of your tweets.
+
+In other words, you need to analyze the text of your tweets to further categorize, as subjectivity or objectivity does not provide a full picture of the topic of a tweet. You could leverage natural language processing (NLP) techniques and machine learning algorithms to analyze the text of your tweets and categorize them more accurately. 
+
+For example, you could use sentiment analysis to determine whether a tweet is positive, negative, or neutral, and categorize tweets accordingly. You could also use topic modelling techniques to identify main topics covered by your tweets and categorize them based on those topics.
