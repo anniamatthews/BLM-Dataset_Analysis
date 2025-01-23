@@ -1,4 +1,4 @@
-# ✊🏽 BLM Tweet Dataset Analysis
+# BLM Tweet Dataset Analysis
 
 This project analyzes a dataset of 360 tweets related to the Black Lives Matter movement. 
 
